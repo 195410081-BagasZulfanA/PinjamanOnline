@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pinjaman Online</string>
+    <string name="check">Check</string>
+    <string name="pinjol">pinjol</string>
+    <string name="backgroundimage">background</string>
+    <string name="jumlah_pinjaman">Jumlah Pinjaman</string>
+    <string name="tenor">Tenor</string>
+    <string name="checkbtn">CHECK</string>
+    <string name="textview">TextView</string>
+    <string name="biaya_layanan">Biaya Layanan</string>
+</resources>
